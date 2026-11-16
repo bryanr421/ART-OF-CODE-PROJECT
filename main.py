@@ -1,0 +1,3 @@
+from myfuctions import *
+
+spral()
